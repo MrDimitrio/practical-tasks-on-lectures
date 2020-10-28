@@ -18,7 +18,6 @@
     <modules>
         <module>lecture3</module>
         <module>lecture3</module>
-        <!-- add some modules -->
-        <!-- ... -->
+        <module>lecture4</module>
     </modules>
 </project>
